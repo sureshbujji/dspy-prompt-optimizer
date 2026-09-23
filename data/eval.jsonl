@@ -1,0 +1,20 @@
+{"bug_title": "Tooltip for enterprise tenants missing on info icon", "bug_description": "Footer has a minor on iOS spacing inconsistency on wide screens.", "severity": "low", "category": "ui"}
+{"bug_title": "Text in dark mode truncated in table cells", "bug_description": "Chart legend labels are overlapping on iOS at narrow widths.", "severity": "medium", "category": "ui"}
+{"bug_title": "Incorrect after the latest update total in checkout calculation", "bug_description": "CSV export when offline fails with a generic error after 10k rows.", "severity": "high", "category": "functional"}
+{"bug_title": "Memory leak on Safari in report worker", "bug_description": "Search latency on Android exceeds 8 seconds on large tenants.", "severity": "high", "category": "performance"}
+{"bug_title": "Dashboard after the latest update times out under load", "bug_description": "Report worker leaks memory on iOS until the container OOMs.", "severity": "high", "category": "performance"}
+{"bug_title": "Privilege escalation for enterprise tenants in API", "bug_description": "Attackers can bypass authentication in dark mode by replaying a session token.", "severity": "critical", "category": "security"}
+{"bug_title": "Broken in dark mode link in migration guide", "bug_description": "A typo for enterprise tenants in the API docs quickstart confuses new integrators.", "severity": "medium", "category": "documentation"}
+{"bug_title": "Draft when offline occasionally not saved", "bug_description": "List sorting has an occasional after the latest update glitch; a workaround is re-sorting.", "severity": "medium", "category": "functional"}
+{"bug_title": "Overlapping during peak hours labels in chart legend", "bug_description": "Action buttons are misaligned when offline on the settings page layout.", "severity": "medium", "category": "ui"}
+{"bug_title": "App crashes on after the latest update startup", "bug_description": "Immediate crash during launch; unsaved work is lost.", "severity": "critical", "category": "functional"}
+{"bug_title": "Crash when in dark mode launching the app", "bug_description": "Crash on Android on cold start. Relaunch shows data loss in recent files.", "severity": "critical", "category": "functional"}
+{"bug_title": "Stored XSS after the latest update in comment field", "bug_description": "Plaintext passwords appear on Android in debug logs shipped to support.", "severity": "high", "category": "security"}
+{"bug_title": "Broken during peak hours link in migration guide", "bug_description": "A typo in the API docs quickstart confuses new integrators.", "severity": "medium", "category": "documentation"}
+{"bug_title": "Punctuation on iOS error in tooltip copy", "bug_description": "A help article has a grammar in dark mode issue in the second paragraph.", "severity": "low", "category": "documentation"}
+{"bug_title": "Export in dark mode fails with error", "bug_description": "Submitting the form fails with a validation error on valid input.", "severity": "high", "category": "functional"}
+{"bug_title": "Inconsistent during peak hours capitalization in docs", "bug_description": "Tooltip copy has a punctuation on Safari error after the update.", "severity": "low", "category": "documentation"}
+{"bug_title": "Minor in dark mode spacing issue in footer", "bug_description": "The status icon looks pixelated on Safari on retina displays.", "severity": "low", "category": "ui"}
+{"bug_title": "Unauthorized access on Safari to admin panel", "bug_description": "Session tokens leak when offline in redirect URLs, enabling hijack.", "severity": "critical", "category": "security"}
+{"bug_title": "Stored XSS for enterprise tenants in comment field", "bug_description": "Plaintext passwords appear on iOS in debug logs shipped to support.", "severity": "high", "category": "security"}
+{"bug_title": "Occasional glitch in list sorting", "bug_description": "The filter after the latest update needs a manual refresh to show new items.", "severity": "medium", "category": "functional"}
