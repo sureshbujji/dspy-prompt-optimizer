@@ -1,0 +1,40 @@
+{"bug_title": "Form submission when offline fails with validation error", "bug_description": "Checkout shows an incorrect total; the tax calculation after the latest update is wrong.", "severity": "high", "category": "functional"}
+{"bug_title": "Outdated after the latest update screenshots in help center", "bug_description": "The migration guide has a broken on Safari link to the changelog.", "severity": "medium", "category": "documentation"}
+{"bug_title": "Overlapping on Android labels in chart legend", "bug_description": "Action buttons are misaligned on Safari on the settings page layout.", "severity": "medium", "category": "ui"}
+{"bug_title": "Passwords after the latest update exposed in debug logs", "bug_description": "Mobile sessions when offline never expire, violating the 30-minute policy.", "severity": "high", "category": "security"}
+{"bug_title": "Authentication bypass on Safari via token replay", "bug_description": "Unauthorized users gain admin privileges on Android through the API.", "severity": "critical", "category": "security"}
+{"bug_title": "Export after the latest update fails with error", "bug_description": "Submitting the form on Safari fails with a validation error on valid input.", "severity": "high", "category": "functional"}
+{"bug_title": "Authentication bypass in dark mode via token replay", "bug_description": "Unauthorized users gain admin privileges through the API.", "severity": "critical", "category": "security"}
+{"bug_title": "Draft during peak hours occasionally not saved", "bug_description": "List sorting has an occasional after the latest update glitch; a workaround is re-sorting.", "severity": "medium", "category": "functional"}
+{"bug_title": "Passwords after the latest update exposed in debug logs", "bug_description": "Mobile sessions never expire, violating the 30-minute policy.", "severity": "high", "category": "security"}
+{"bug_title": "Occasional for enterprise tenants glitch in list sorting", "bug_description": "The filter on Android needs a manual refresh to show new items.", "severity": "medium", "category": "functional"}
+{"bug_title": "Icon looks on Android pixelated on retina", "bug_description": "The info icon is missing its hover on iOS tooltip.", "severity": "low", "category": "ui"}
+{"bug_title": "Unauthorized access on iOS to admin panel", "bug_description": "Session tokens leak when offline in redirect URLs, enabling hijack.", "severity": "critical", "category": "security"}
+{"bug_title": "Crash when after the latest update launching the app", "bug_description": "Crash when offline on cold start. Relaunch shows data loss in recent files.", "severity": "critical", "category": "functional"}
+{"bug_title": "Incorrect for enterprise tenants total in checkout calculation", "bug_description": "CSV export for enterprise tenants fails with a generic error after 10k rows.", "severity": "high", "category": "functional"}
+{"bug_title": "Memory leak on Safari in report worker", "bug_description": "Search latency on Android exceeds 8 seconds on large tenants.", "severity": "high", "category": "performance"}
+{"bug_title": "Typo on Safari in API docs quickstart", "bug_description": "Help center screenshots are outdated after the redesign.", "severity": "medium", "category": "documentation"}
+{"bug_title": "Grammar on iOS issue in help article", "bug_description": "Docs use inconsistent capitalization on iOS for feature names.", "severity": "low", "category": "documentation"}
+{"bug_title": "Text for enterprise tenants truncated in table cells", "bug_description": "Chart legend labels are overlapping on Android at narrow widths.", "severity": "medium", "category": "ui"}
+{"bug_title": "Punctuation after the latest update error in tooltip copy", "bug_description": "A help article has a grammar on Safari issue in the second paragraph.", "severity": "low", "category": "documentation"}
+{"bug_title": "Data loss after crash", "bug_description": "The app crashes on startup and corrupts saved data.", "severity": "critical", "category": "functional"}
+{"bug_title": "Buttons after the latest update misaligned on settings page", "bug_description": "Long names get truncated on Android in table cells without a tooltip.", "severity": "medium", "category": "ui"}
+{"bug_title": "Outdated when offline screenshots in help center", "bug_description": "The migration guide has a broken on iOS link to the changelog.", "severity": "medium", "category": "documentation"}
+{"bug_title": "Tooltip during peak hours missing on info icon", "bug_description": "Footer has a minor spacing inconsistency on wide screens.", "severity": "low", "category": "ui"}
+{"bug_title": "Grammar on Android issue in help article", "bug_description": "Docs use inconsistent capitalization after the latest update for feature names.", "severity": "low", "category": "documentation"}
+{"bug_title": "Filter on iOS needs manual refresh", "bug_description": "Drafts are occasionally on iOS not saved when switching tabs.", "severity": "medium", "category": "functional"}
+{"bug_title": "Icon looks pixelated on retina", "bug_description": "The info icon is missing its hover for enterprise tenants tooltip.", "severity": "low", "category": "ui"}
+{"bug_title": "Dashboard when offline times out under load", "bug_description": "Report worker leaks memory in dark mode until the container OOMs.", "severity": "high", "category": "performance"}
+{"bug_title": "Search latency for enterprise tenants over 8 seconds", "bug_description": "The dashboard times out when more than 50 widgets load.", "severity": "high", "category": "performance"}
+{"bug_title": "App crashes on after the latest update startup", "bug_description": "Immediate crash on Safari during launch; unsaved work is lost.", "severity": "critical", "category": "functional"}
+{"bug_title": "Form submission during peak hours fails with validation error", "bug_description": "Checkout shows an incorrect total; the tax calculation on Safari is wrong.", "severity": "high", "category": "functional"}
+{"bug_title": "Data loss after on Android crash", "bug_description": "The app crashes on iOS on startup and corrupts saved data.", "severity": "critical", "category": "functional"}
+{"bug_title": "Session in dark mode never expires on mobile", "bug_description": "Stored XSS payload during peak hours executes when moderators open the queue.", "severity": "high", "category": "security"}
+{"bug_title": "Session on Android never expires on mobile", "bug_description": "Stored XSS payload in dark mode executes when moderators open the queue.", "severity": "high", "category": "security"}
+{"bug_title": "Privilege escalation on Android in API", "bug_description": "Attackers can bypass authentication during peak hours by replaying a session token.", "severity": "critical", "category": "security"}
+{"bug_title": "Inconsistent after the latest update capitalization in docs", "bug_description": "Tooltip copy has a punctuation during peak hours error after the update.", "severity": "low", "category": "documentation"}
+{"bug_title": "Minor on Safari spacing issue in footer", "bug_description": "The status icon looks pixelated on Safari on retina displays.", "severity": "low", "category": "ui"}
+{"bug_title": "Typo after the latest update in API docs quickstart", "bug_description": "Help center screenshots are outdated in dark mode after the redesign.", "severity": "medium", "category": "documentation"}
+{"bug_title": "Buttons during peak hours misaligned on settings page", "bug_description": "Long names get truncated on iOS in table cells without a tooltip.", "severity": "medium", "category": "ui"}
+{"bug_title": "Filter on iOS needs manual refresh", "bug_description": "Drafts are occasionally on Safari not saved when switching tabs.", "severity": "medium", "category": "functional"}
+{"bug_title": "Search latency on iOS over 8 seconds", "bug_description": "The dashboard during peak hours times out when more than 50 widgets load.", "severity": "high", "category": "performance"}
