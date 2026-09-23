@@ -1,0 +1,5 @@
+# Pinned together and verified to install cleanly (see README).
+# dspy 2.6.24 is the newest non-yanked 2.6.x release; the mock LM in
+# src/mock_lm.py is written against its LM interface (dspy/clients/base_lm.py).
+dspy==2.6.24
+pytest==9.1.1
